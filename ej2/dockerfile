@@ -1,4 +1,1 @@
-FROM node:20-alpine
-WORKDIR /app
-EXPOSE 9595
-CMD ["sh", "-c", "npm install && npm run start:dev"]
+
